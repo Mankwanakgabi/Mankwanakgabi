@@ -1,12 +1,15 @@
-# Hi there, I'm Mankwana! 👋
-Welcome to my GitHub profile! I'm a passionate **Junior Data Analyst** with a background in **Economics and Econometrics**. 
-I recently completed my Bachelor of Commerce degree and have been honing my skills in data analysis, visualization, and storytelling.
-My mission is to uncover meaningful insights from data and help businesses make informed decisions
+Hi there, My name is mankwana! 👋
+
+& welcome to my GitHub profile! I’m a Junior Data Analyst with a strong foundation in Economics and Econometrics, recently completed my Bachelor of Commerce degree. My journey in data analysis has fueled my passion for transforming raw data into meaningful stories that drive informed decision-making.
+
+With a keen eye for data visualization, I enjoy creating insights that not only answer questions but spark new ideas. I specialize in analyzing complex datasets, using tools like Excel, Python, and SQL, and transforming them into actionable intelligence that helps organizations thrive.
+
+Driven by curiosity, I’m on a mission to uncover hidden patterns, deliver impactful solutions, and leverage data to solve real-world problems. Let’s connect and collaborate on turning data into value!
 
 ## 🚀 About Me
 - 🎓 **Education**: Bachelor of Commerce in Economics and Econometrics  
-- 📍 **Current Focus**: Data Analytics, Investment Banking, Marketing Analytics  
-- 🌱 **Currently Learning**: Advanced SQL, Google Analytics, and Power BI  
+- 📍 **Current Focus**: Data Analytics, Investment Banking, Everything Analytics  
+- 🌱 **Currently Learning**: Advanced SQL, python, and Power BI  
 - 💼 **Career Aspiration**: To work as a Data Analyst or Marketing Analyst in a dynamic, data-driven environment  
 - 📊 **Passion Projects**: Exploring data trends, visualizing insights, and solving business problems
 
@@ -19,7 +22,9 @@ My mission is to uncover meaningful insights from data and help businesses make 
 - **Certifications**:  
   - Data Analysis with R Programming  
   - Python for Data Science, AI, and Development  
-  - Google Analytics  
+  - Google Data Analytics
+  - Introduction to Data Analytics
+  - Excel Basics for Data Analysis 
 
 ---
 
@@ -30,11 +35,11 @@ Here are some of the projects I've been working on:
    - Tools: R, Tableau, Excel  
    - Key Insights: Identified user behavior trends that inform marketing strategies.  
 
-2. [**Excel Data Cleaning**](#)  
+2. [**Excel Data Cleaning and Analysis**](#)
+ 
    *Transformed raw sales data into actionable insights for business decisions.*  
 
-3. [**SQL Queries for Marketing Analytics**](#)  
-   *Built queries to analyze campaign performance metrics.*  
+
 
 ---
 
@@ -48,5 +53,3 @@ Here are some of the projects I've been working on:
 ## 🌟 Let's Connect!
 - LinkedIn: linkedin.com/in/mankwanakgabi  
 - Email: Mankwanakgabi@outlook.com
-
-Thanks for visiting my profile! I'm always open to collaboration and learning opportunities. Let's connect and build something amazing together!
